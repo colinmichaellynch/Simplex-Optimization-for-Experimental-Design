@@ -7,7 +7,7 @@ I use Sequential Simplex Optimization to Estimate Sample Size for Experiments wi
 
 * [Script](https://github.com/colinmichaellynch/Simplex-Optimization-for-Experimental-Design/blob/main/simplexSearch.m)
 
-* [Video](https://github.com/colinmichaellynch/Simplex-Optimization-for-Experimental-Design/blob/main/simplexSearchDesirability.mp4)
+* [Video of Simplex in Action](https://github.com/colinmichaellynch/Simplex-Optimization-for-Experimental-Design/blob/main/simplexSearchDesirability.mp4)
 
 ## Background 
 
