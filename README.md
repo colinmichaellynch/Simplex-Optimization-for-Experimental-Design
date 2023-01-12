@@ -35,7 +35,9 @@ https://user-images.githubusercontent.com/61156429/211679683-71e7a3a1-215e-495a-
 
 * This is a much more managable computational load than the exhaustive search, and can be implemented in an R package for selecting optimal sampling strategies.
 
-![](/Images/simplexPerformance.png)
+<p align="center">
+  <img src=/Images/simplexPerformance.png>
+</p>
 
 ## Acknowledgements
 
